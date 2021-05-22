@@ -13,7 +13,10 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 ## 🧐 About
-- 🏄‍ Web Developer who loves to build  3D websites.
+☯ I'm a **Developer | Thinker | Creator | Learner**
+- 🌱 Learning new things everyday.
+- 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
+- 👨‍💻 FrontEnd developer who loves web development.
 - 😄 I usually like to make open source contributions.
 - 🤔 I’m learning NodeJs.
 - 🌱 I love to learn new Technologies and ready to help others.
@@ -29,10 +32,10 @@
 - ⚡ Fun fact: I usually like coding at nights! 
 
 <a href="https://NumanAnees.github.io">
-  <img src="https://github-readme-stats.vercel.app/api?username=NumanAnees&count_private=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NumanAnees&theme=radical&count_private=true" align="center"/>
 </a>
 <a href="https://NumanAnees.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NumanAnees&layout=compact" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NumanAnees&theme=radical&layout=compact" align="center"/>
 </a>
 <br>
 <br>
