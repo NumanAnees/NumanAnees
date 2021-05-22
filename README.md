@@ -10,7 +10,7 @@
 ## Hi there 👋,           
 #### I'm Numan Anees, Student at 👨‍💻 PUCIT Pursuing BSC.  I am tech enthusiast, I love to build Web Application and currently focusing on Threejs and backend.  
 
-<img align="right" alt="GIF" src="https://www.pinterest.com/pin/567523990538356835/" width="400px" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 ## 🧐 About
 - 🏄‍ Web Developer who loves to build  3D websites.
