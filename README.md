@@ -18,9 +18,7 @@
 - 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
 - 👨‍💻 FrontEnd developer who loves web development.
 - 😄 I usually like to make open source contributions.
-- 🤔 I’m learning NodeJs.
 - 🌱 I love to learn new Technologies and ready to help others.
-- 🎨 Fun fact: In my free time, you'll find me listening music or watching some Web series.
 - 👯 And Many More...
 
 
