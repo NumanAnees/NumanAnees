@@ -21,10 +21,11 @@
 - 👯 And Many More...
 
 
-# <img src="https://scontent.flhe13-1.fna.fbcdn.net/v/t1.6435-9/116263926_1281770012175013_1025366656975154165_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=174925&_nc_eui2=AeG8vWYc1CFN41JQv5i-XVx8f7a9fVx3igd_tr19XHeKBwq6Csw2aG3HfRkU4kBLIzSoVuqf1Qj5jhEzqfkzEoZF&_nc_ohc=TEeQ_JBJ0joAX9EPZt_&_nc_ht=scontent.flhe13-1.fna&oh=47f737021dbf9f576bfb7a6227530fa4&oe=60CFA45F" width="29px"> Hello world!&nbsp;<img src="https://www.facebook.com/photo.php?fbid=1281770008841680&set=pb.100010260795931.-2207520000..&type=3"  width="24px"> 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+
 
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: aa
+- 📫 How to reach me: https://numananees.netlify.app/
 - ⚡ Fun fact: I usually like coding at nights! 
 
 <a href="https://NumanAnees.github.io">
