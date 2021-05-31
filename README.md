@@ -35,6 +35,12 @@
 <a href="https://NumanAnees.github.io">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NumanAnees&theme=radical&layout=compact" align="center"/>
 </a>
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NumanAnees&show_icons=true" alt="NumanAnees_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NumanAnees&layout=compact" alt="NumanAnees_stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=NumanAnees&layout=compact" alt ="yash0501" />
+</p>
+
 <br>
 <br>
 <p align="center">
