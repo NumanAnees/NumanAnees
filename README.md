@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/NumanAnees-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/numananees/)
 [![Gmail Badge](https://img.shields.io/badge/numananees44@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:numananees44@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=NumanAnees)  
+![Profile views](https://komarev.com/ghpvc/?username=NumanAnees&label=PROFILE+VIEWS&style=plastic&color=blue)
 
 
 ## Hi there 👋,           
