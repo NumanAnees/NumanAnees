@@ -8,15 +8,14 @@
 
 
 ## Hi there 👋,           
-#### I'm Numan Anees, Student at 👨‍💻 PUCIT Pursuing BSSE.  I am tech enthusiast, I love to build Web Application and currently focusing on Threejs and backend.  
+#### I'm Numan Anees, Student at 👨‍💻 PUCIT Pursuing BSSE.  I am tech enthusiast, I love to build Web Applications and currently focusing on making projects.  
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 ## 🧐 About
 ☯ I'm a **Developer | Thinker | Creator | Learner**
 - 🌱 Learning new things everyday.
-- 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
-- 👨‍💻 FrontEnd developer who loves web development.
+- 👨‍💻 FullStack developer who loves web development.
 - 😄 I usually like to make open source contributions.
 - 🌱 I love to learn new Technologies and ready to help others.
 - 👯 And Many More...
