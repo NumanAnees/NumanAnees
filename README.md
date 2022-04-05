@@ -42,20 +42,6 @@
 
 <br>
 <br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/>
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg" alt="djnago" width="40" height="40"/> 
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
-</p>
-
 
 
 
