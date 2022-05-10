@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 ## 🧐 About
-☯ I'm a **Developer | Thinker | Creator | Learner**
+☯ I'm a **Developer | Thinker | Learner**
 - 🌱 Learning new things everyday.
 - 👨‍💻 FullStack developer who loves web development.
 - 😄 I usually like to make open source contributions.
