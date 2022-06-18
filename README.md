@@ -18,8 +18,8 @@
 - 😄 I usually like to make open source contributions.
 - 🌱 I love to learn new Technologies and ready to help others.
 - 📫 How to reach me https://numananees.netlify.app/
-- My Resume: <a href="shorturl.at/oBDOR" target="_blank">https://app.flowcv.com/LuXYZmip_lsZykltGZ60f</a>
-- 👯 And Many More...
+- 🔭 My Resume: <a href="https://app.flowcv.com/resume-feedback/LuXYZmip_lsZykltGZ60f" target="_blank">Link</a>
+
 <br>
 <br>
 <br>
