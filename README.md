@@ -8,16 +8,16 @@
 
 
 ## Hi there 👋,           
-#### I'm Numan Anees, Student at 👨‍💻 PUCIT Pursuing BSSE.  I am tech enthusiast, I love to build Web Applications and currently focusing on making projects.  
+#### I'm Numan Anees, Student at 👨‍💻 PUCIT Pursuing BSSE.  I am tech enthusiast, I love to build Web Applications and currently working as a Full Stack Developer @ <a href="https://megaverse.pk/">Megaverse</a>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-## 🧐 About
-☯ I'm a **Developer | Thinker | Learner**
-- 🌱 Learning new things everyday.
+## 🧐 About Me
+☯ I'm a **Developer | Thinker | Learner | Problem Solver**
 - 👨‍💻 FullStack developer who loves web development.
 - 😄 I usually like to make open source contributions.
 - 🌱 I love to learn new Technologies and ready to help others.
+- 📫 How to reach me https://numananees.netlify.app/
 - 👯 And Many More...
 
 <br><br>
@@ -30,8 +30,8 @@
 ------------ | -------------
 [![stats](https://github-readme-stats.vercel.app/api/top-langs?username=NumanAnees&show_icons=true&locale=en&layout=compact&theme=blueberry)](https://github-readme-stats.vercel.app/api/top-langs?username=NumanAnees) | [![stats](https://github-readme-stats.vercel.app/api?username=NumanAnees&count_private=true&show_icons=true&locale=en&theme=blueberry)](https://github-readme-stats.vercel.app/api?username=NumanAnees&count_private=true)
 
-[![NumanAnees's github activity graph](https://activity-graph.herokuapp.com/graph?username=NumanAnees&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=NumanAnees&theme=github&count_private=true)
+[![NumanAnees's github activity graph](https://activity-graph.herokuapp.com/graph?username=NumanAnees&theme=react-dark&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=NumanAnees&theme=react-dark&count_private=true)
 <br>
-[![NumanAnees's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NumanAnees&theme=github_dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NumanAnees&theme=github_dark)
+[![NumanAnees's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NumanAnees&theme=vue)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NumanAnees&theme=vue)
 
 
