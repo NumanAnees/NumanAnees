@@ -26,9 +26,9 @@
 <h1 align="left">Github Stats and trophies 🏆 </h1>
 <br>
 
-| [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=NumanAnees&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=NumanAnees) | [![streak](https://github-profile-trophy.vercel.app/?username=NumanAnees&theme=darkhub&no-bg=true&row=2&column=3&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=NumanAnees) | 
+| [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=NumanAnees&theme=blueberry)](https://github-readme-streak-stats.herokuapp.com/?user=NumanAnees) | [![streak](https://github-profile-trophy.vercel.app/?username=NumanAnees&theme=blueberry&no-bg=true&row=2&column=3&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=NumanAnees) | 
 ------------ | -------------
-[![stats](https://github-readme-stats.vercel.app/api/top-langs?username=NumanAnees&show_icons=true&locale=en&layout=compact&theme=merko)](https://github-readme-stats.vercel.app/api/top-langs?username=NumanAnees) | [![stats](https://github-readme-stats.vercel.app/api?username=NumanAnees&count_private=true&show_icons=true&locale=en&theme=merko)](https://github-readme-stats.vercel.app/api?username=NumanAnees&count_private=true)
+[![stats](https://github-readme-stats.vercel.app/api/top-langs?username=NumanAnees&show_icons=true&locale=en&layout=compact&theme=blueberry)](https://github-readme-stats.vercel.app/api/top-langs?username=NumanAnees) | [![stats](https://github-readme-stats.vercel.app/api?username=NumanAnees&count_private=true&show_icons=true&locale=en&theme=blueberry)](https://github-readme-stats.vercel.app/api?username=NumanAnees&count_private=true)
 
 [![NumanAnees's github activity graph](https://activity-graph.herokuapp.com/graph?username=NumanAnees&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=NumanAnees&theme=github&count_private=true)
 <br>
